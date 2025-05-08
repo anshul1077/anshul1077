@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm ANSHUL KATOCH
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Project Name](Project Link)**
-- 🌱 I'm currently learning **Technology/Framework**
+- 🔭 I'm currently working on MusicSite Like --> Spotify**
+- 🌱 I'm currently learning **React with Vite**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, JavaScript, etc.**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: **Share something interesting about yourself**
+- 📫 How to reach me: **anshulkatoch1112@gmail.com**
+- ⚡ Fun fact: **I can turn coffee into code faster than my compiler throws errors! ☕💻**
 
 ## 🛠️ Skills
 
