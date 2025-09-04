@@ -75,10 +75,6 @@
 ## 🎮 Let's play a game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omidnikrah/github-readme-stackoverflow/master/github-readme-stackoverflow.svg" />
-</p>
-
-<p align="center">
   <a href="https://github.com/anshul1077/anshul1077/issues/new?template=chess.md&title=Chess%3A+Move+{fromPos}+to+{toPos}">
     <img src="https://readme-chess.vercel.app/api/chess?username=anshul1077" alt="Chess" />
   </a>
@@ -89,7 +85,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-</p>
